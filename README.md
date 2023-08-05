@@ -7,7 +7,4 @@ Um bot que publica comentarios em outros blogs com o link de apontamento para se
 npm i
 ```
 # Funcionando
-<video controls width="640" height="360">
-        <source src="https://db.blogs-tutorials.com/videos/20230805_062749.mp4" type="https://db.blogs-tutorials.com/videos/20230805_062749.mp4">
-        Seu navegador não suporta o elemento de vídeo.
-    </video>
+[Exemplo](https://db.blogs-tutorials.com/videos/20230805_062749.mp4)
