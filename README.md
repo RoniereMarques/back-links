@@ -7,4 +7,4 @@ Um bot que publica comentarios em outros blogs com o link de apontamento para se
 npm i
 ```
 # Funcionando
-[Exemplo](https://db.blogs-tutorials.com/videos/20230805_062749.mp4)
+[Assista ao vídeo aqui](https://db.blogs-tutorials.com/videos/20230805_062749.mp4)
