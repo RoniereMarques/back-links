@@ -1,2 +1,1 @@
-```diff
-- **Aviso**: Este é um aviso importante.
+> **Nota**: Esta é uma nota importante que você deseja destacar.
